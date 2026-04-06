@@ -1,2 +1,1 @@
-HEllo everyone!!!!
-good morning fron d2
+print ("good morning")
